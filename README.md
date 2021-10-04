@@ -1,6 +1,8 @@
 # Movie QL
 
-Nomad Coders Movie API with Graphql
+**Movie API**
+
+> Nomad Coders Graphql tutorial
 
 You can watch the [course](https://nomadcoders.co/graphql-for-beginners) for this app.
 
